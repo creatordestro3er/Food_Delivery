@@ -1,0 +1,36 @@
+
+{
+"name":"New Food Item",
+"description":"Get New Food Update  Daily",
+"version":"0.0.1",
+"manifest_version":3,
+"action":{
+    "default_popup":"popup.html",
+    "default_icon":"food.png"
+}
+
+ 
+}
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
